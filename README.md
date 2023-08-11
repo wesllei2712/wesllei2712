@@ -1,16 +1,13 @@
-### Hi there 👋
+### bem vindo ao meu perfil 
 
-<!--
-**wesllei2712/wesllei2712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é wesllei.
 
-Here are some ideas to get you started:
+Sou aluno do ALURA e estudante da 2ª série.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Este espaço é edicado para organizar e compartilhar meus projetos.
+
+### quer entrar em contato? envie um 📬.
+
+Wesllei.oleinik@escola.pr.gov.br
+
+![](https://media.tenor.com/mOR-MnUI3QEAAAAM/confused-white-persian-guardian.gif)
