@@ -2,7 +2,7 @@
 
 Meu nome é wesllei.
 
-Sou aluno do ALURA e estudante da 2ª série.
+Sou aluno do [ALURA]( https://www.alura.com.br/)e estudante da 2ª série.
 
 Este espaço é edicado para organizar e compartilhar meus projetos.
 
